@@ -1,7 +1,7 @@
-
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE edicts SYSTEM "ashoka_edicts.dtd">
 <edicts>
+<edict>
         <head>
             <source>second rock-edict</source>
             <num>2</num>
@@ -143,8 +143,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>second rock-edict</source>
             <num>2</num>
@@ -286,8 +286,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>second rock-edict</source>
             <num>2</num>
@@ -429,8 +429,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>fifth rock-edict</source>
             <num>5</num>
@@ -572,8 +572,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>fifth rock-edict</source>
             <num>5</num>
@@ -715,8 +715,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>fifth rock-edict</source>
             <num>5</num>
@@ -858,8 +858,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>seventh rock-edict</source>
             <num>7</num>
@@ -1001,8 +1001,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>seventh rock-edict</source>
             <num>7</num>
@@ -1144,8 +1144,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>seventh rock-edict</source>
             <num>7</num>
@@ -1287,8 +1287,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>ninth rock-edict</source>
             <num>9</num>
@@ -1430,8 +1430,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>ninth rock-edict</source>
             <num>9</num>
@@ -1573,8 +1573,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>thirteenth rock-edict</source>
             <num>13</num>
@@ -1716,8 +1716,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>thirteenth rock-edict</source>
             <num>13</num>
@@ -1859,8 +1859,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>thirteenth rock-edict</source>
             <num>13</num>
@@ -2002,8 +2002,8 @@
             <text>.......... both in this world and in the other world.</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>first pillar-edict</source>
             <num>99</num>
@@ -2145,8 +2145,8 @@
             <text>nan</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>first separate rock-edict</source>
             <num>99</num>
@@ -2288,8 +2288,8 @@
             <text>but from ujjayinī also the prince (governor) will send out for the same purpose ….. a person of the same description. and he will not allow (more than) three years to pass (without such a deputation).  (bb) in the same way (an officer will be deputed) from takshaśilā also.  (cc) when ..... these mahāmātras will set out on tour. then. without neglecting their own duties. they will ascertain this as well. (viz.) whether (the]udicial officers) are carrying out this also thus. as the instruction of the king (implies).</text>
         </sentence>
     
-</edicts>
-<edicts>
+</edict>
+<edict>
         <head>
             <source>second separate rock-edict</source>
             <num>99</num>
@@ -2431,4 +2431,5 @@
             <text>nan</text>
         </sentence>
     
+</edict>
 </edicts>
