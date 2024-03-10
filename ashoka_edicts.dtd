@@ -1,10 +1,9 @@
-<!ELEMENT edicts(edict)>
-<!ELEMENT edict (head,content)>
+<!ELEMENT edicts (edict+)>
+<!ELEMENT edict (head,sentence+)>
 <!ELEMENT head (source, num, place)>
 <!ELEMENT source (#PCDATA)>
 <!ELEMENT num (#PCDATA)>
 <!ELEMENT place (#PCDATA)>
-<!ELEMENT content (sentence)>
 <!ELEMENT sentence (number+,text+)>
 <!ELEMENT number (#PCDATA)>
 <!ELEMENT text (#PCDATA)>
